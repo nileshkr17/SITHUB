@@ -40,8 +40,8 @@
 
 AND MANY MORE UPDATING SOON 
 ## DEVELOPER INVOLVED 
-1. <a href=https://github.com/Abhinavkar>ABHINAV KAR</a>
-2. <a href=https://github.com/nileshkr17>NILESH </a>
+1. <a href=https://github.com/nileshkr17>NILESH </a>
+2. <a href=https://github.com/Abhinavkar>ABHINAV KAR</a>
 3. <a href= "https://github.com/DIKSHYA2002">DIKSHYA AGARWAL </a>
 ## DISCLAIMER 
  THIS WEBSITE IS BEING MADE BY TEAM AND ALL RIGHTS ARE RESERVED. THIS WEBSITE IS MADE FOR THE EDUCATIONAL PURPOSES 
